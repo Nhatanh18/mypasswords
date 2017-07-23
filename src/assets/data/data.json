@@ -1,0 +1,36 @@
+{
+
+  "schedule": [{
+    "groups": [
+      
+       {
+      
+      "sessions": [{
+        "name": "Gmail",
+        "location": "www.google.mail.com",
+        "description": "Name: nhatanhpham ",
+        
+       
+        "tracks": ["Ionic"],
+        "id": "2"
+      }, {
+        "name": "Yahoo",
+        "location": "https://vn.mail.yahoo.com",
+        "description": "Name: castle_in_the_sky_95@yahoo.com.vn",
+        
+        
+        "tracks": ["Ionic"],
+        "id": "3"
+      }, {
+        "name": "Facebook",
+        "location": "www.facebook.com",
+        "description": "Name: Phạm Nhật Anh",
+        
+        "tracks": ["Tooling"],
+        "id": "4"
+      }]
+    } ]
+
+  
+  }]
+}
